@@ -1,0 +1,12 @@
+class MobileDetails
+{
+  public static void main(String[] args)
+  {
+  int cost=25000;
+  String model="model";
+  String colour="blue";
+  System.out.println(cost);
+  System.out.println(model);
+  System.out.println(colour);
+  }
+}

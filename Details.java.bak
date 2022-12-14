@@ -1,0 +1,18 @@
+class Details
+{
+     public static void main(String[] args)
+     {
+     String name="Priya";
+     double salary=50000;
+     int YOP=2019;
+     String DOB="5/10/1947";
+     String DOJ="30/12/2022";
+     System.out.println("The name is " +name);
+     System.out.println("The salary is " +salary);
+     System.out.println("The YOP is " +YOP);
+     System.out.println("The DOB is " +DOB);
+     System.out.println("The DOJ is " +DOJ);
+     }
+}
+
+     
